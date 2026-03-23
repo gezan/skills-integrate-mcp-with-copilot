@@ -25,6 +25,7 @@
 *.log
 *.sql
 *.sqlite
+src/data/*.db
 
 # OS generated files #
 ######################
@@ -38,6 +39,7 @@ Thumbs.db
 
 # Python files
 __pycache__
+*.pyc
 
 # Env files
 .env
